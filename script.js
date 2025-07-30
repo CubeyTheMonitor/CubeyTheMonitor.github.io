@@ -1,4 +1,4 @@
-
+console.log("Hi! ^_^")
 
   const deleteLink = document.getElementById("dalink2")
 
