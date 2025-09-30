@@ -10,6 +10,8 @@
     max-height: 300px;
     display: block;
     margin: auto;
+    border: 8px solid rgb(75, 0, 160);
+    border-radius: 20px;
 }
 .dapara3 {
         text-align: center;
