@@ -5,7 +5,7 @@
     margin-top: -10px ;
     color: white;
 }
-#Cubey {
+.Cubey {
     max-width: 300px;
     max-height: 300px;
     display: block;
@@ -106,4 +106,5 @@
 
 body {
     background-color: rgb(111, 0, 255);
+
 }
